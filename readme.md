@@ -1,2 +1,18 @@
 # CIM640 - Fall 2018
-Hello!!
+
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+Hello JUPITER!!
+
+
+[Click here to go to google.com](http://google.com)
+
+![My picture](/sample.jpg)
+
+* List item 1
+* Item 2
