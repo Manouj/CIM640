@@ -1,0 +1,16 @@
+# DressApp
+
+## Objective:
+DressApp enables the user to create/generate any dress of his choice - stitched to fit his form and structure.
+
+## Steps to operate:
+
+1. Load/reload the fabric tray.
+2. Select the dress of your choice from the inbuilt selector(touch screen).
+3. Physically enter into the auto dresser.
+4. Wait for the device the 3D scan your body to read your form.
+5. Choose between 'Dress up now' or 'Later'.
+6. 'Dress up now' will 3D print the dress on your body. 'Later' will deliver the dress which you can wear anytime later.
+4. **Voila!** Your new dress is ready.
+
+![My picture](/notes/autodress.gif)
