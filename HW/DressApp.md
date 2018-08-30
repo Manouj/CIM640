@@ -11,6 +11,6 @@ DressApp enables the user to create/generate any dress of his choice - stitched 
 4. Wait for the device the 3D scan your body to read your form.
 5. Choose between 'Dress up now' or 'Later'.
 6. 'Dress up now' will 3D print the dress on your body. 'Later' will deliver the dress which you can wear anytime later.
-4. **Voila!** Your new dress is ready.
+4. **Voila!** You are done.
 
-![My picture](/notes/autodress.gif)
+![dresser](/notes/autodress.gif)
