@@ -14,3 +14,4 @@ DressApp enables the user to create/generate any dress of his choice - stitched 
 4. **Voila!** You are done.
 
 ![dresser](/notes/autodress.gif)
+![dresser](https://giphy.com/gifs/9x6Lf7tN3jvm5ag0Wi/fullscreen)
