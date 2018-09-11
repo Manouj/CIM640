@@ -21,7 +21,7 @@ function draw() {
 
     fill("black");
     ellipse (350,130,20,20);
-      ellipse(150,130,20,20);
+    ellipse (150,130,20,20);
     //eye brows
       fill("white");
     arc(150, 70, 30, 30, PI, 0);
