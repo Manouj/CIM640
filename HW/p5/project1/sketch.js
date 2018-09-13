@@ -26,12 +26,14 @@ function draw() {
       fill("white");
     arc(150, 70, 30, 30, PI, 0);
     arc(350, 70, 30, 30, PI, 0);
-    //mouth
 
+    //mouth
     arc(250, 300, 150, 80, 0, PI);
     arc(mouseX , mouseY, 50, 50, QUARTER_PI, PI*1.75);
     fill("black");
     arc(250, 310, 130, 60, 0, PI);
+
+
     //nose
       fill("white");
     //arc(250, 220, 80, 80, 0, PI);
