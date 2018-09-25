@@ -11,7 +11,6 @@ var rectX = 50;
 var rectY = 75;
 var rectSize = 100;
 
-
 function preload()
 {
     sun = loadImage('assets/sun.png');
@@ -34,7 +33,6 @@ function draw() {
   {
 
     image(sun,50,100);
-
 
   }
   else if (mouseX>=width/2) {
