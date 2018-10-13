@@ -12,5 +12,5 @@ function setup() {
 
 function draw() {
   // put drawing code here
-  image (inbox,0,0);
+  image (inbox,0,0,width,height);
 }
