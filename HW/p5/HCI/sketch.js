@@ -7,10 +7,11 @@ function preload()
 
 function setup() {
   // put setup code here
-  createCanvas(750,1334);
+  createCanvas(window.innerWidth, window.innerHeight);
 }
 
 function draw() {
   // put drawing code here
-  image (inbox,0,0,750,1334);
+  image (inbox,0,0,width,height);
+
 }
