@@ -2,9 +2,9 @@
 # JetPack Troopers
 
 ## About Project:
- ** Project by:** Manouj Kumar
+ **Project by:** Manouj Kumar
 
- ** Term:** Fall 18 (Mid-Term)
+ **Term:** Fall 18 (Mid-Term)
 
  **Programming Language:** p5.js
 
