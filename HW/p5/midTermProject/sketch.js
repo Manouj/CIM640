@@ -150,8 +150,8 @@ function draw() {
   text('2. Shoot: Press left mouse click to shoot', 1120,320);
   image(inst2,1120,340,100,100);
 
-  text('3. Score: Shoot the green bar to score. \n Score as many points as possible before time runs out.', 1120,500);
-  image(inst3,1120,540,100,100);
+  text('3. Score: Shoot the green bar to score.\nShooting the shutters(yellow bar) reduces score. \nScore as many points as possible before time runs out.\n ', 1120,500);
+  image(inst3,1120,560,100,100);
 
   }
   //new game screen ends here
@@ -447,7 +447,6 @@ function keyPressed()
     obstacles.push(new Obstacles());
   }
 }
-
 }
 
 function mousePressed()
