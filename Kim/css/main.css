@@ -17,3 +17,171 @@
 .pink{
   background:pink;
 }
+body{
+  background-color:#f8f9fa;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.myHeader
+{
+    /* background-image: url("../assets/bg-01.png"); */
+  text-align: center!important;
+    background-size: cover;
+    background-color:#f8f9fa;
+  height:580px;
+}
+
+.mx-auto
+{
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+
+.about
+{
+  background-color: #2f122e;
+  color:#fff;
+  text-align: center!important;
+  padding-top:120px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 120px;
+  margin-top:-5px;
+}
+.games
+{
+  background-color: #2f122e;
+  color:#fff;
+
+
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 120px;
+
+}
+
+@media (min-width: 990px) {
+  .myNavStyle
+  {
+  position: absolute;
+  right: 10px;
+  }
+
+  .myNavBar
+  {
+    min-height:100px;
+  }
+}
+
+.name
+{
+font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  padding-top: 150px;
+
+}
+
+@media (max-width:767px)
+{
+  .logo
+  {
+    float:left;
+  }
+  .contSmall
+  {
+    padding:0;
+  }
+  .nameSmall
+  {
+    font-size:42px;
+    margin-top: -50px
+  }
+}
+
+  .abtButton
+{
+  background:transparent !important;
+  color: #f4b8b8;
+  border-color: #d44c46;
+}
+
+.navbar-nav
+{
+  text-align: right !important;
+}
+
+
+.parallax-element-container {
+  position: relative;
+}
+
+.element {
+  position: absolute;
+
+}
+
+.element img {
+  width: 100%;
+  height: 100%;
+}
+
+.card-body
+{
+          background: #d44c46 !important;
+}
+
+.activeList{
+  color: #d44c46 !important;
+  font-size: 32px  !important;
+}
+
+.hide{
+  display: none;
+}
+
+.skills
+{
+  color: #fff;
+  font-size: 22px;
+
+}
+
+@media (max-width:1200px)
+{
+  .activeList{
+    color: #d44c46 !important;
+    font-size: 22px  !important;
+  }
+
+  .hide{
+    display: none;
+  }
+
+  .skills
+  {
+    color: #f4b8b8;
+    font-size: 18px;
+  }
+}
+
+i.fa {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+  background-color: #000;
+
+}
+
+.skillText
+{
+  color:#ffffff61;
+  background: #d44c46;
+
+  text-align: center!important;
+  padding-top:120px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 120px;
+
+}
